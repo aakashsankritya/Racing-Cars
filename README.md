@@ -1,4 +1,4 @@
-**Racing Cars**
+**Racing Cars - Project using JAVA**
 
 `Goal:`
 
